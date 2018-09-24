@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GPA_JoseM_Calculator</string>
+    <string name="title_activity_gpa__calculator">GPA_Calculator</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="btn_submit"> Compute GPA </string>
+    <string name="tv_1">5 Classes</string>
+    <string name="tv_2">Credits</string>
+    <string name="tv_3">Grade</string>
+    <string name="tv_4"></string>
+    <string name="enter_a_number1">Enter a number</string>
+    <string name="enter_a_number2">Enter a number</string>
+    <string name="enter_a_number3">Enter a number</string>
+    <string name="enter_a_number4">Enter a number</string>
+    <string name="enter_a_number5">Enter a number</string>
+    <string name="enter_a_number6">Enter a number</string>
+    <string name="enter_a_number7">Enter a number</string>
+    <string name="enter_a_number8">Enter a number</string>
+    <string name="enter_a_number9">Enter a number</string>
+    <string name="enter_a_number10">Enter a number</string>
+    <string name="btn_clear">Clear</string>
+</resources>
